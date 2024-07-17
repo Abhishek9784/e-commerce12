@@ -36,7 +36,7 @@ https://e-commerce97.netlify.app/
 Clone the project
 
 ```bash
-  https://github.com/Abhishek9784/e-commerce12.git
+ https://github.com/Abhishek9784/e-commerce12.git
 ```
 
 Go to the project directory
